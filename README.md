@@ -42,7 +42,11 @@ $ cat capabilities.txt
 ---
 ## 🔗 Connect & Platforms
 
-- 💼 **LinkedIn:** [linkedin.com/in/hikmet-kovserov](https://www.linkedin.com/in/hikmet-kovserov/)
-- 🎯 **TryHackMe:** [tryhackme.com/p/hksec](https://tryhackme.com/p/hksec)
-- 📦 **HackTheBox:** [profile.hackthebox.com/profile](https://profile.hackthebox.com/profile/019cbe1c-a699-72d7-9819-7edb9961eeb4?utm_medium=copy_url)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hikmet-kovserov/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hksec)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019cbe1c-a699-72d7-9819-7edb9961eeb4?utm_medium=copy_url)
+
+</div>
 
