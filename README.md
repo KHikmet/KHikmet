@@ -38,11 +38,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![Hikmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHikmet&show_icons=true&theme=radial)
-
----
-
 ## 📫 Connect with Me
-- **LinkedIn:** [Hikmet's LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Hikmet's LinkedIn](https://linkedin.com/in/hikmet-kovserov/)
