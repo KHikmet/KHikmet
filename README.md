@@ -70,7 +70,6 @@ $ cat skills.txt
 
 # 🏆 Achievements
 
-- 🥇 1st Place — Cyber Security CTF Competition (CIDC 2025)
 - 📜 CRTA Certified
 - 📜 eWPTX Certified
 - 📜 CCNA Certified
@@ -80,26 +79,28 @@ $ cat skills.txt
 
 # 🔗 Connect & Platforms
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/hikmet-kovserov/" target="_blank">
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/hikmet-kovserov/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</td>
 
-&nbsp;
-
-<a href="https://tryhackme.com/p/hksec" target="_blank">
+<td align="center">
+<a href="https://tryhackme.com/p/hksec">
 <img src="https://img.shields.io/badge/TryHackMe-hksec-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
+</td>
 
-&nbsp;
-
-<a href="https://profile.hackthebox.com/profile/019cbe1c-a699-72d7-9819-7edb9961eeb4" target="_blank">
+<td align="center">
+<a href="https://profile.hackthebox.com/profile/019cbe1c-a699-72d7-9819-7edb9961eeb4">
 <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
+</td>
 
-</p>
-
+</tr>
+</table>
 ---
 
 <div align="center">
