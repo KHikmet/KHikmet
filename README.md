@@ -24,15 +24,25 @@
 ## 🎯 About Me
 
 ```bash
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                   SYSTEM ACCESS GRANTED — OPERATOR PROFILE                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
 $ whoami
-hikmet --role "Red Team Operator" --focus "Adversary Simulation & Exploit Development"
+[+] User      : Hikmet Kovserov
+[+] Role      : Red Team Operator & Offensive Security Specialist
+[+] Status    : Active Adversary Simulation & Vulnerability Hunting ⚡
 
-$ cat target_scope.txt
-- 🏢 Active Directory Pwnage & Lateral Movement
-- 🌐 Advanced Web & API Exploitation
-- 💻 Custom C2 Infrastructure & Payload Generation
-- 🔍 Vulnerability Research & Zero-Day Hunting
+$ cat capabilities.txt
+┌──[ Attack Vectors & Core Focus ]
+├── 🏢 Active Directory Attacks (Privilege Escalation, Kerberoasting, Lateral Movement)
+├── 🌐 Advanced Web Application & API Penetration Testing
+├── 💻 Custom C2 Infrastructure & Payload Development
+└── 🔍 Vulnerability Research & Zero-Day PoC Analysis
 ---
+## 🔗 Connect & Platforms
 
-## 📫 Connect with Me
-- **LinkedIn:** https://linkedin.com/in/hikmet-kovserov/
+- 💼 **LinkedIn:** [linkedin.com/in/hikmet-kovserov](https://www.linkedin.com/in/hikmet-kovserov/)
+- 🎯 **TryHackMe:** [tryhackme.com/p/hksec](https://tryhackme.com/p/hksec)
+- 📦 **HackTheBox:** [profile.hackthebox.com/profile](https://profile.hackthebox.com/profile/019cbe1c-a699-72d7-9819-7edb9961eeb4?utm_medium=copy_url)
+
