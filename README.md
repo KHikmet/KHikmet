@@ -8,7 +8,6 @@
 📜 **Certifications:** `CRTA` | `eWPTX` | `CCNA` | `CWSE`  
 🎓 **Computer Engineering Student**
 
-
 ## 🛠️ Tech Stack & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -40,14 +39,24 @@ $ cat capabilities.txt
 ├── 💻 Custom C2 Infrastructure & Payload Development
 └── 🔍 Vulnerability Research & Zero-Day PoC Analysis
 ---
-
 ## 🔗 Connect & Platforms
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hikmet-kovserov/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hksec)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019cbe1c-a699-72d7-9819-7edb9961eeb4?utm_medium=copy_url)
+<a href="https://www.linkedin.com/in/hikmet-kovserov/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://tryhackme.com/p/hksec">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
 
+<a href="https://profile.hackthebox.com/profile/019cbe1c-a699-72d7-9819-7edb9961eeb4">
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
