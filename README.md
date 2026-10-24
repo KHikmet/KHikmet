@@ -3,7 +3,7 @@
 # 💀 Hikmet Kovserov
 ### `Red Team Operator` | `Penetration Tester` 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0000&center=true&vcenter=true&width=550&lines=Offensive+Security+Engineer;Red+Team+Operator;Active+Directory+Pwnage;Malware+Dev+%26+Exploitation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0000&center=true&vcenter=true&width=550&lines=Offensive+Security;Red+Team+Operator;Active+Directory+Pwnage;Malware+Dev+%26+Exploitation)](https://git.io/typing-svg)
 
 📜 **Certifications:** `CRTA` | `eWPTX` | `CCNA` | `CWSE`  
 🎓 **Computer Engineering Student**
