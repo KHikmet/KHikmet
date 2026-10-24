@@ -40,6 +40,7 @@ $ cat capabilities.txt
 ├── 💻 Custom C2 Infrastructure & Payload Development
 └── 🔍 Vulnerability Research & Zero-Day PoC Analysis
 ---
+
 ## 🔗 Connect & Platforms
 
 <div align="center">
