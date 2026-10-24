@@ -35,4 +35,4 @@ $ cat target_scope.txt
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Hikmet's LinkedIn](https://linkedin.com/in/hikmet-kovserov/)
+- **LinkedIn:** https://linkedin.com/in/hikmet-kovserov/
